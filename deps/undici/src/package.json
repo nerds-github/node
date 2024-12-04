@@ -104,7 +104,7 @@
   "devDependencies": {
     "@fastify/busboy": "2.1.1",
     "@matteo.collina/tspl": "^0.1.1",
-    "@sinonjs/fake-timers": "^11.1.0",
+    "@sinonjs/fake-timers": "^13.0.5",
     "@types/node": "^18.0.3",
     "abort-controller": "^3.0.0",
     "borp": "^0.15.0",
